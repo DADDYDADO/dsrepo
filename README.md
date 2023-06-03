@@ -11,6 +11,7 @@
 課程筆記區：
 
 作業連結區：
-<p><a href="https://youtu.be/a6e3RKH_-EQ" target="_blank">HW01</a></p>
+<p><a href="https://youtu.be/a6e3RKH_-EQ" target="_blank">HW01#1</a><a href="https://youtu.be/a6e3RKH_-EQ" target="_blank">HW01#2</a></p>
+
 
 專題連結區：
